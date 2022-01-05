@@ -1,9 +1,9 @@
 ---
 name: CHOI KwangCheol
-username: 쵸리쵸리
+username: chorychory
 bio: "하...살려주세요.."
 site: http://johndoe.com
-avatar: chorychory.png
+avatar: chorychory.jpg
 email: mail@johndoe.com
 social:
     - title: "github"
