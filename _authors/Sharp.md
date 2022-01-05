@@ -1,8 +1,8 @@
 ---
 name: InSeob LIM
-username: Sharp
+username: sharp
 bio: "Hello~"
-site: 
+site: http://
 avatar: Sharp.png
 email: dkgk12@gmail.com
 ---
