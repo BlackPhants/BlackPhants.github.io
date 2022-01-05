@@ -1,11 +1,11 @@
 # Add Authors here
-chorychory:
-  name: CHOI KwangCheol
-  username: chorychory
-  bio: "하...살려주세요.."
-  site: http://johndoe.com
-  avatar: chorychory.jpg
-  email: mail@johndoe.com
+blackphants:
+  name: BlackPhants
+  username: blackphants
+  bio: "Hello~!! We are BlackPhants!!!"
+  site: https://blackphants.github.io
+  avatar: blackphants.jpg
+  email:
   social:
     - title: "github"
       url: "https://github.com/johndoe"
@@ -30,34 +30,20 @@ chorychory:
     - title: "flickr"
       url: "https://flickr.com/johndoe"
 
-blackphants:
-  name: BlackPhants
-  username: blackphants
-  bio: "Hello~!! We are BlackPhants!!!"
-  site: https://blackphants.github.io
-  avatar: blackphants.jpg
+Sharp:
+  name: LIM InSeob
+  username: Sharp
+  bio: "Hello~"
+  site: 
+  avatar: Sharp.png
+  email: dkgk12@gmail.com
+
+chorychory:
+  name: CHOI KwangCheol
+  username: chorychory
+  bio: "하...살려주세요.."
+  site: http://johndoe.com
+  avatar: chorychory.jpg
   email: mail@johndoe.com
-  social:
-    - title: "github"
-      url: "https://github.com/johndoe"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
-    - title: "behance"
-      url: "https://behance.com/johndoe"
-    - title: "instagram"
-      url: "https://instagram.com/johndoe"
-    - title: "medium"
-      url: "https://medium.com/johndoe"
-    - title: "telegram"
-      url: "https://telegram.com/johndoe"
-    - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
+
 
