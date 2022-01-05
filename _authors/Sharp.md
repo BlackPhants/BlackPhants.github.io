@@ -1,5 +1,5 @@
 ---
-name: LIM InSeob
+name: InSeob LIM
 username: Sharp
 bio: "Hello~"
 site: 

@@ -31,7 +31,7 @@ blackphants:
       url: "https://flickr.com/johndoe"
 
 Sharp:
-  name: LIM InSeob
+  name: InSeob LIM
   username: Sharp
   bio: "Hello~"
   site: 
@@ -39,8 +39,24 @@ Sharp:
   email: dkgk12@gmail.com
 
 chorychory:
-  name: CHOI KwangCheol
+  name: KwangCheol CHOI
   username: chorychory
+  bio: "하...살려주세요.."
+  site: http://johndoe.com
+  avatar: chorychory.jpg
+  email: mail@johndoe.com
+
+bk:
+  name: BK
+  username: bk
+  bio: "하...살려주세요.."
+  site: http://johndoe.com
+  avatar: chorychory.jpg
+  email: mail@johndoe.com
+
+js:
+  name: Lee JaeSueng
+  username: js
   bio: "하...살려주세요.."
   site: http://johndoe.com
   avatar: chorychory.jpg
