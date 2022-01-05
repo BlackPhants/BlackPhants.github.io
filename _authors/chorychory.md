@@ -1,9 +1,9 @@
 ---
 name: CHOI KwangCheol
-username: chorychory
-bio: "Hi I a John, a Web Developer and Designer."
+username: 쵸리쵸리
+bio: "하...살려주세요.."
 site: http://johndoe.com
-avatar: johndoe.png
+avatar: chorychory.png
 email: mail@johndoe.com
 social:
     - title: "github"

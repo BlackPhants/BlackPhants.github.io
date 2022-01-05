@@ -139,5 +139,3 @@ Also a Author Profile Page will be created for Jane Doe to showcase her written 
 Also, below this article you can see the Author Profile Card , who has written the article too ! ;)
 
 Cheers ! Hope You enjoy this new feature. :D
-
-
