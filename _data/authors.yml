@@ -4,7 +4,7 @@ blackphants:
   username: blackphants
   bio: "Hello~!! We are BlackPhants!!!"
   site: https://blackphants.github.io
-  avatar: blackphants.jpg
+  avatar: blackphants.png
   email:
   social:
     - title: "github"
@@ -30,9 +30,9 @@ blackphants:
     - title: "flickr"
       url: "https://flickr.com/johndoe"
 
-Sharp:
+sharp:
   name: InSeob LIM
-  username: Sharp
+  username: sharp
   bio: "Hello~"
   site: 
   avatar: Sharp.png
@@ -43,23 +43,23 @@ chorychory:
   username: chorychory
   bio: "하...살려주세요.."
   site: http://johndoe.com
-  avatar: chorychory.jpg
+  avatar: chorychory.png
   email: mail@johndoe.com
 
 bk:
-  name: BK
-  username: bk
-  bio: "하...살려주세요.."
-  site: http://johndoe.com
-  avatar: chorychory.jpg
-  email: mail@johndoe.com
+  name: ByoungGyu Jeong
+  username: BK
+  bio: "기획 및 그래픽 관련 업무를 맡고있는 정병규 입니다."
+  site: 
+  avatar: bk.png
+  email: wjdqudrb1029@gmail.com
 
-js:
-  name: Lee JaeSueng
-  username: js
-  bio: "하...살려주세요.."
-  site: http://johndoe.com
-  avatar: chorychory.jpg
-  email: mail@johndoe.com
+ljs:
+  name: JaeSeung Lee
+  username: ljs
+  bio: "공백의 미"
+  site: 
+  avatar: ljs.png
+  email: rkddkwl955@naver.com
 
 

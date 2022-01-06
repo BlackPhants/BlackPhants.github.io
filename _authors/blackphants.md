@@ -3,7 +3,7 @@ name: BlackPhants
 username: blackphants
 bio: "Hello~!! We are BlackPhants!!!"
 site: https://blackphants.github.io
-avatar: blackphants.jpg
+avatar: blackphants.png
 email: mail@johndoe.com
 social:
     - title: "github"
