@@ -42,13 +42,13 @@ chorychory:
   name: KwangCheol CHOI
   username: chorychory
   bio: "하...살려주세요.."
-  site: http://johndoe.com
+  site: 
   avatar: chorychory.png
-  email: mail@johndoe.com
+  email: bkazzi@naver.com
 
 bk:
   name: ByoungGyu Jeong
-  username: BK
+  username: bk
   bio: "기획 및 그래픽 관련 업무를 맡고있는 정병규 입니다."
   site: 
   avatar: bk.png
@@ -57,7 +57,7 @@ bk:
 ljs:
   name: JaeSeung Lee
   username: ljs
-  bio: "공백의 미"
+  bio: "여백의 미"
   site: 
   avatar: ljs.png
   email: rkddkwl955@naver.com

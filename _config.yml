@@ -17,9 +17,9 @@ urls:
 author_logo: profile.png
 author: BlackPhants
 author_bio: 안녕하세요. BlackPhants의 기술블로그입니다. 저희는 게임을 제작 중 입니다.
-author_email: mail@sujaykundu.com
+author_email: 
 author_location: Korea
-author_website_url: 'https://sujaykundu.com'
+author_website_url: ''
 typewrite-text: 으아아아아아아아아아아아아아아아아악!!!! 살ㄹ려줏...
 hero_cover_img: sample_cover.jpg
 author_work_experiences:
@@ -53,16 +53,16 @@ author_project_details:
     project_description: A Platform built for Hackers and Penetration Testers
     project_url: 'https://hack4r.com'
     visibility: true
-twitter_username: johndoe
-github_username: sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: 
+github_username: 
+facebook_username: 
+linkedin_username: 
+behance_username: 
+instagram_username: 
+medium_username: 
+telegram_username: 
+dribbble_username: 
+flickr_username: 
 mailchimp_form_url: >-
   https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 formspree_email: johndoe@gmail.com
